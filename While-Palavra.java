@@ -7,7 +7,7 @@ public class Main
 		String P;
 		int x = 0;
 		
-	   System.out.println("Escreva uma Palavra \n");
+	   System.out.println("Escreva uma Palavra");
 	   P = sc.nextLine();
 	   
 	   while (x<5) {
